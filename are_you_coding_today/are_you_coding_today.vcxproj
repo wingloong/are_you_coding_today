@@ -154,6 +154,7 @@
     <ClCompile Include="friday.cpp" />
     <ClCompile Include="Monday.cpp" />
     <ClCompile Include="thursday.cpp" />
+    <ClCompile Include="Wednesday.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
